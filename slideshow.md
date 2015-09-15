@@ -62,27 +62,27 @@
 - 「__測位情報の信頼性評価モデル__」の新規提案をJIPDECが行う
 ---
 ### 主な決議
-- 700: 世界銀行とリエゾン関係を結ぶ
-- 701: 無人航空システムを扱うISO/TC 20/SC 16とリエゾン関係を結ぶ
-- 703: 郵便以外の住所表現について作業プログラムに登録する
-- 708: 定期見直し（SR）指針（後掲）
+- 700: __世界銀行__とリエゾン関係を結ぶ
+- 701: __無人航空システム__を扱うISO/TC 20/SC 16とリエゾン関係を結ぶ
+- 703: __郵便以外目的の住所表現__について作業プログラムに登録する
+- 708: __定期見直し（SR）__指針（後掲）
 ---
-### 今回観測できた特徴的な動向 1/2
-- TC 211からUN-GGIMへの貢献は議長を中心に引き続き追求
-  - 主目的はmember増、GGRF及びグローバル基盤地理情報項目への貢献
+### 今回総会ウィークで観測できた特徴的な動向 1/2
+- TC 211から__UN-GGIM__への貢献は議長を中心に引き続き追求
+  - 主目的は__member増__、GGRF及びグローバル基盤地理情報項目への貢献
   - GGRF = Global Geodetic Reference Frame
   - 8月のUN-GGIMでは、加盟国のTC 211参加を勧める方向性が見られた
   - P-memberによる開発途上国取込みの流れが発生した場合本邦の対処は？
-- TC 211での国際標準化は特定の技術パラダイムに縛られるべきではないとの議長見解が示され、GeoJSON等の新技術との調和の可能性が探られた。
+- TC 211での国際標準化は特定の技術パラダイムに縛られるべきではないとの議長見解が示され、__GeoJSON等の新技術との調和__の可能性が探られた。
 ---
-### 今回観測できた特徴的な動向 2/2
+### 今回総会ウィークで観測できた特徴的な動向 2/2
 - TC 211, OGC, W3C, USGS が関わる6つの標準化関係プロジェクトで、作業効率化や情報提供のために__GitHub__の利用が開始されている。
 - e.g. https://github.com/ISO-TC211
-  - ISO-TC211/XML - xsd, xslt, sch, and examples
-  - ISO-TC211/UML-Best-Practices - work
-  - ISO-TC211/ISO19110 - rev. 19110, mainly for issue tracking
-  - ISO-TC211/GOM - group for ontology management
-  - ISO-TC211/19115-2Revision - repository for sharing documents
+  - ISO-TC211/__XML__ - xsd, xslt, sch, and examples
+  - ISO-TC211/__UML__-Best-Practices - work
+  - ISO-TC211/ISO__19110__（地物カタログ化法） - rev. 19110, mainly for issue tracking
+  - ISO-TC211/__GOM__ - group for __ontology__ management
+  - ISO-TC211/__19115-2__（メタデータ画像拡張）Revision - repository for sharing documents
 ---
 ## シドニー総会ウィーク（12月）
 http://www.isotc211.org/calendar.htm
@@ -91,7 +91,7 @@ http://www.isotc211.org/calendar.htm
 - スケジュールをOGC TCと接続するため、やや時期を後ろ倒し
   - OGC TC は 11/30〜12/4
 - 追加の会議（OGCと共同？）を土日（12/5〜6）に実施する意向
-- 幹事会で照会したところ、本邦は通常の3名程度で対応見込み
+- 幹事会で照会したところ、本邦は__通常の3名程度で対応__見込み
 
 ---
 ## 終了した投票案件
@@ -115,14 +115,14 @@ http://www.isotc211.org/calendar.htm
 
 ---
 ## 2. Map Code 意見照会
-- オランダ（背景に TomTom）提案のNWIPへの意見照会
+- __オランダ（背景に TomTom）__提案のNWIPへの意見照会
   - 例えば東京駅は「JPN RC.LH」「JPN ヘキ.トサ」
 - 総会で PMG （プロジェクト管理グループ）より次の勧告あり
 - PMG advice to member bodies on commenting
   - Inappropriate as an ISO project at this time
   - Has the work on this topic in OGC been considered? - See OGC SWG on 'Discrete global grid systems'
   - Has it been considered whether this work could be added to a registry based on ISO 19145, Geographic information -- Registry of representations of geographic point locations?
-- 本邦の投票：総会 PMG 見解に基づき幹事会集約でコメント
+- 本邦の投票：総会 PMG 見解に基づきコメントを幹事会レベルで集約して実施
 
 ---
 ## 2. Map Code 意見照会 Cnt'd
@@ -142,7 +142,7 @@ http://www.isotc211.org/calendar.htm
 
 - Spatial referencing by coordinates - Part 2: Extension for parametric values  Amendment 1
 - Now Work Item Proposal and __Draft amendment__
-- 19111-2:2009 の Page 3, 6.2 の Figure 1 を差し替えるのみ
+- 19111-2:2009 の Page 3, 6.2 の __Figure 1 を差し替えるのみ__
 - Project Leader Roger Lott / WG 9
 - SR投票結果を受けたサウサンプトン総会決議704（後掲）に基づくもの
 
@@ -177,6 +177,7 @@ the secretariat to send out the proposed amendment in document N 4028 for vote.
 - ステージ40.00？：__賛成　29__、反対 5
 - ステージ40.00 は Draft Amendment。
 - コメント：__ParametricCRS → SC_ParametricCRS__（オランダ、ノルウェー、英国）
+  - 変更対象の唯一の図の英国案にクラス名の__誤り__があった。
 - 専門家参加？: カナダ、ノルウェー、英国、米国
 
 ---
@@ -210,7 +211,7 @@ at least by commenting on working drafts, and nominate expert(s).
 ---
 ### 投票結果
 - 投票 32、投票せず 2（ロシア、米国）
-- プロジェクトリーダー: ノミネートなし
+- プロジェクトリーダー: __ノミネートなし__
 - 専門家: 豪州、カナダ、中国、ドイツ、英国がノミネート
 
 ---
@@ -243,7 +244,7 @@ at least by commenting on working drafts, and nominate expert(s).
 ---
 ### 投票結果
 - 投票 32、投票せず 2（ロシア、米国）
-- プロジェクトリーダー: ノミネートなし
+- プロジェクトリーダー: __ノミネートなし__
 - 専門家: 豪州、カナダ、中国、デンマーク、ドイツ、スウェーデンがノミネート
 ---
 # 審議事項
@@ -287,6 +288,7 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
 ---
 ### 本邦のスタンス
 - 時間スキーマ（JIS X 7108:2004）はJPGISでも引用されている。
+  - JPGIS: Japan Profile for Geographic Information Standards
 - 特段記録された問題もなく、専門家を出す意向も知られていない。
 - ゆえに、ガイダンス「Confirm」から変更する特段の理由がない。
 ---
@@ -298,22 +300,24 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
   - JIS X 7108:2008
 3. Is the national publication identical, or proposed to be identical, to the International Standard or modified?
   - Identical
+---
+### 投票案 Cnt'd
 4. Is this International Standard, or its national adoption, referenced in regulations in your country?
   - Yes
   - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 （基盤地図情報の整備に係る技術上の基準）
 ---
 #### 「基盤地図情報の整備に係る技術上の基準」第6条(基盤地図情報が適合すべき規格)
 1. JIS X 7107 空間スキーマ
-2. JIS X 7108 時間スキーマ
+2. JIS X 7108 __時間スキーマ__
 3. JIS X 7109 応用スキーマのための規則
 4. JIS X 7110 地物カタログ化法
-5. JIS X 7111 座標による空間参照)
-6. JIS X 7112 地理識別子による空間参照
+5. JIS X 7111 座標による空間参照
+6. JIS X 7112 __地理識別子による空間参照__
 7. JIS X 7113 品質原理
 8. JIS X 7115 メタデータ
 9. ISO TS 19103 概念スキーマ言語
 10. ISO 19118:2011 符号化
-11. ISO 19123 被覆の幾何及び関数のためのスキーマ
+11. ISO 19123 __被覆の幾何及び関数のためのスキーマ__
 12. ISO 19131 データ製品仕様
 13. ISO 19136 地理マーク付け言語
 ---
@@ -346,6 +350,8 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
   - JIS X 7112:2006
 3. Is the national publication identical, or proposed to be identical, to the International Standard or modified?
   - Identical
+---
+### 投票案 Cnt'd
 4. Is this International Standard, or its national adoption, referenced in regulations in your country?
   - Yes
   - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 （基盤地図情報の整備に係る技術上の基準）
@@ -380,6 +386,8 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
 3. Is this International Standard used in your country without national adoption or are products used in your country based on this standard?
   - Yes
   - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 refers to this International Standard.
+---
+### 投票案 Cnt'd
 4. Is this International Standard, or its national adoption, referenced in regulations in your country?
   - Yes
   - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 （基盤地図情報の整備に係る技術上の基準）
@@ -398,14 +406,14 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
   - Confirm
 
 #### PMG資料より
-2nd SR。2009年にReviseで採択。Confirmを勧告。
+2nd SR。2009年にReviseで採択。今回はConfirmを勧告。
 ---
 ### 本邦のスタンス
 - WMS 1.3.0 と equivalent
 - OGC でも WMS 1.3.0 が IS(Implementation Standard) 格
 - Reviseにリソースを出す方向にもない
 - Reviseしても本邦への積極的な裨益はない
-- ガイダンス通り Confirm に投票してよい
+- ガイダンス通り Confirm に投票してよい
 ---
 ### 投票案
 1. Recommended action
@@ -414,6 +422,7 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
   - No
 3. Is this International Standard used in your country without national adoption or are products used in your country based on this standard?
   - Yes
+  - Multiple ISO 19128 compliant services are in operation in Japan.
 4. Is this International Standard, or its national adoption, referenced in regulations in your country?
   - No
 
@@ -472,7 +481,7 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
 ### 投票案
 1. Recommended action
   - Revise/Amend
-  - Comment: ISO 19133:2005 should be revised to harmonize with ISO 19148
+  - Comment: ISO 19133:2005 should be revised to harmonize with ISO 19148.
 2. Has this International Standard been adopted or is it intended to be adopted in the future as a national standard or other publication?
   - No
 3. Is this International Standard used in your country without national adoption or are products used in your country based on this standard?
@@ -505,7 +514,7 @@ ISO/TC 211 resolves that for all NWIPs and revisions of standards that include a
 ### 投票案
 1. Recommended action
   - Revise/Amend
-  - Comment: Revise the XML schema and include a reference to the schema as an amendment to ISO 19135-1, according to Resolution 684
+  - Comment: Revise the XML schema and include a reference to the schema as an amendment to ISO 19135-1, according to Resolution 684.
 2. Has this International Standard been adopted or is it intended to be adopted in the future as a national standard or other publication?
   - No
 3. Is this International Standard used in your country without national adoption or are products used in your country based on this standard?
@@ -557,7 +566,7 @@ The project is assigned to WG 9.
 -Unanimous
 ---
 ### 委員会草案（CD）の内容
-- 既存の規格を修正するもの
+- 既存の規格（ISO/TS 19127:2005）を加筆修正するもの
   - 題名を geodetic codes and parameters から geodetic register へ
   - 設置が決まっている「ISO geodetic register」を明記
   - Control Body for the ISO geodetic register の ToR を含む
@@ -597,7 +606,7 @@ The project is assigned to WG 9.
 ### 投票案
 - 1a. Do you approve, disapprove or abstain on this NWIP?
   - approve
-  - Comment: Japan approves this NWIP
+  - Comment: Japan approves this NWIP.
 - Please also select from one of the following options (note that if no option is selected, the default will be the first option):
   - Draft document will be registered as new project in the committee's work programme (stage 20.00)
 - 1b. Did you consult with the range of relevant stakeholders identified in the proposal in the development of this voting position and related comments?
@@ -613,10 +622,10 @@ The project is assigned to WG 9.
 ---
 ## 提案〜国内委員会プレゼン資料のGitHubでの作成〜
 1. （現状）幹事長資料の準備完了は会議の直前になる傾向
-2. （改善可能性）投票案件は案件ごとに資料作成が可能
-3. （改善案）投票案件単位での照会を可能とする
-4. （提案）GitHub で今回方式のスライドを管理し、必要に応じて照会にも使う
-5. （参考）TC 211の複数の作業グループがすでにGitHubを使用。総会報告済
-6. （留意点）ISO CSのポリシーを逸脱することはしない
+2. （改善可能性）投票は__案件ごと__に対処方針の検討が可能
+3. （改善案）投票__案件ごと__の照会を可能とする
+4. （提案）GitHub で今回方式のスライドを管理し、__必要に応じて照会__にも使う
+5. （参考）TC 211の複数の作業グループが__すでにGitHubを使用__。総会報告済
+6. （留意点）ISO 中央事務局のポリシーを逸脱することはしない
 
 → 幹事会後 http://github.com/iso-tc211-jp/iinkai075 で仮組
