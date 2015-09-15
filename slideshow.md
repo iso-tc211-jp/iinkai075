@@ -27,7 +27,7 @@
 - 出席者90名程度（前回深セン総会と比べ、主に欧州から参加増）
 - 日本団：藤村（地理院）、プルース様（JIPDEC）、郡司様（JIPDEC）
 ---
-### 主な作業項目の進捗 1/2
+### 主な作業項目の進捗 1/3
 - 19107：__空間スキーマ__（改訂）
   - 類のないほど大量の1,160件のコメントを処理。
   - 8月までにCD2を作成予定。（→作業負担大きく、断念した模様）
@@ -38,7 +38,7 @@
 - 19155-2: __場所識別子リンキング__
   - 70件のコメント等を処理。ほぼすべてをその場で解決。
 ---
-### 主な作業項目の進捗 2/2
+### 主な作業項目の進捗 2/3
 - 19160-1: 住所概念モデル
   - 規格案の処理は順調。
   - 南ア、NZに加えUPU、デンマーク、韓、米、INSPIREも__Profile登録__へ
@@ -49,6 +49,8 @@
 - 19160-5: 郵便以外での住所表現
   - 韓国提案による新規作業項目。日本を含む9カ国が参加。
   - ユースケースをまとめる等の作業を開始する。
+---
+### 主な作業項目の進捗 3/3
 - 19165: デジタルデータの保存
   - ドイツ・スペイン主導。
   - OGCでも対応する部会が立ち上がっており、共同議長が共通。
@@ -292,11 +294,13 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
 1. Recommended action
   - Confirm
 2. Has this International Standard been adopted or is it intended to be adopted in the future as a national standard or other publication?
-  - Yes (JIS X 7108:2004)
-3. Is this International Standard used in your country without national adoption or are products used in your country based on this standard?
-  - No
+  - Yes
+  - JIS X 7108:2008
+3. Is the national publication identical, or proposed to be identical, to the International Standard or modified?
+  - Identical
 4. Is this International Standard, or its national adoption, referenced in regulations in your country?
-  - Yes (基盤地図情報の整備に係る技術上の基準)
+  - Yes
+  - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 （基盤地図情報の整備に係る技術上の基準）
 ---
 #### 「基盤地図情報の整備に係る技術上の基準」第6条(基盤地図情報が適合すべき規格)
 1. JIS X 7107 空間スキーマ
@@ -338,11 +342,13 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
   - Revise/Amend
   - Comment: Amend to harmonize with other standards
 2. Has this International Standard been adopted or is it intended to be adopted in the future as a national standard or other publication?
-  - Yes (JIS X 7112)
-3. Is this International Standard used in your country without national adoption or are products used in your country based on this standard?
-  - No
+  - Yes
+  - JIS X 7112:2006
+3. Is the national publication identical, or proposed to be identical, to the International Standard or modified?
+  - Identical
 4. Is this International Standard, or its national adoption, referenced in regulations in your country?
-  - Yes (基盤地図情報の整備に係る技術上の基準)
+  - Yes
+  - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 （基盤地図情報の整備に係る技術上の基準）
 
 ---
 ### 3. SR 19123:2005 (vers 2)
@@ -372,9 +378,12 @@ ISO/TC 211 recommends the following for systematic reviews with due date 2015-09
 2. Has this International Standard been adopted or is it intended to be adopted in the future as a national standard or other publication?
   - No (JIS X 7123を制定する具体的な予定はない)
 3. Is this International Standard used in your country without national adoption or are products used in your country based on this standard?
-  - Yes (基盤地図情報の整備に係る技術上の基準)
+  - Yes
+  - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 refers to this International Standard.
 4. Is this International Standard, or its national adoption, referenced in regulations in your country?
-  - Yes (基盤地図情報の整備に係る技術上の基準)
+  - Yes
+  - Public Notice of the Ministry of Land, Infrastructure, Transport and Tourism No. 1144, 2007 （基盤地図情報の整備に係る技術上の基準）
+
 ---
 ### 4. SR 19128:2005 (vers 2)
 - Web map server interface / WMS
